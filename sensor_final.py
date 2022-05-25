@@ -12,8 +12,8 @@ from camera_final import ZedCameraSensor
 class Sensors:
 
     def __init__(self,
-                 camera_resolution: str = '2K',
-                 fps: int = 15,
+                 camera_resolution: str = '1080',
+                 fps: int = 30,
                  camera_view: str = 'left',
                  include_depth: bool = True):
 

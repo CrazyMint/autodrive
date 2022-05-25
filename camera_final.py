@@ -62,11 +62,11 @@ class ZedCameraSensor(CameraSensor):
     """
 
     def __init__(self,
-                 camera_resolution: str = '1080',
+                 camera_resolution: str = '720',
                  fps: int = 30,
                  camera_view: str = 'left',
                  include_depth: bool = True,
-                 max_depth: int = 10):
+                 max_depth: int = 5):
         # **** Write a small comment for each variable
         # ** so anyone can know what each one does later on
 
@@ -148,7 +148,7 @@ class ZedCameraSensor(CameraSensor):
         # if depth sensing is specified
         if self.include_depth:
             init_params.depth_mode = sl.DEPTH_MODE.ULTRA
-            init_params.coordinate_units = sl.UNIT.MILLIMETER
+            init_params.coordinate_units = sl.UNIT.METER
 
         # initialize the zed camera
         if self.zed.open(init_params) != sl.ERROR_CODE.SUCCESS:
@@ -176,8 +176,13 @@ class ZedCameraSensor(CameraSensor):
         # retrieve and update image frame data
         self.zed.retrieve_image(self.raw_zed_data,  sl.VIEW.LEFT)
         self.image_frame = self.raw_zed_data.get_data()
+
+        self.res = sl.Resolution()
+        self.res.width = self.image_width
+        self.res.height = self.image_height
+
         if self.include_depth:
-            self.zed.retrieve_measure(self.raw_depth_data, sl.MEASURE.XYZRGBA)
+            self.zed.retrieve_measure(self.raw_depth_data, sl.MEASURE.XYZRGBA, sl.MEM.CPU, self.res)
             self.depth_map = self.raw_depth_data.get_data()
 
         # start update thread to continuously collect image data
@@ -194,6 +199,7 @@ class ZedCameraSensor(CameraSensor):
         """
 
         # update frames continuously while the sensor is ON
+
         while self.started:
 
             if self.zed.grab(sl.RuntimeParameters()) == sl.ERROR_CODE.SUCCESS:
@@ -207,7 +213,8 @@ class ZedCameraSensor(CameraSensor):
                     # self.zed.retrieve_image(self.raw_depth_data, sl.VIEW.DEPTH)  # view depth
                     self.zed.retrieve_measure(self.raw_depth_data,
                                             sl.MEASURE.XYZRGBA,
-                                            sl.MEM.CPU)  # uncomment to measure
+                                            sl.MEM.CPU,
+                                            self.res)  # uncomment to measure
                     depth_ocv = self.raw_depth_data.get_data()
 
                 # update
@@ -221,8 +228,9 @@ class ZedCameraSensor(CameraSensor):
 
                 # send to buffer
                 ZedCameraSensor.send_to_buffer('zed_image', image_ocv)
-                ZedCameraSensor.send_to_buffer('zed_depth_map', depth_ocv)
-                #print('[info]: image saved to buffer')
+
+                if self.include_depth:
+                    ZedCameraSensor.send_to_buffer('zed_depth_map', depth_ocv)
 
                 ''' WHAT IS THE POINT OF THESE 3 LINES BELOW?? '''
                 timestamp = self.zed.get_timestamp(sl.TIME_REFERENCE.IMAGE).get_seconds()
@@ -350,13 +358,16 @@ if __name__ == "__main__":
     c = camera1.num_channels
 
     while True:
-        frame = camera1.get_from_buffer(os.path.join('/home/osu/adc_software/python/Lidar/sensors_working_2022/sensors_working_v2/sensors', 'zed_image'), (h, w, c))
-        frame2 = camera1.get_from_buffer(os.path.join('/home/osu/adc_software/python/Lidar/sensors_working_2022/sensors_working_v2/sensors','zed_depth_map'), (h, w, c))
+        frame = camera1.get_from_buffer('zed_image', (h, w, c))
+        frame2 = camera1.get_from_buffer('zed_depth_map', (h, w, c))
 
-        print(frame.shape, frame2.shape)
+        print(frame2)
 
-        cv2.imshow("image", frame)
-        #cv2.imshow("depth", frame)
+        #print(frame.shape, frame2.shape)
+        print(frame.dtype, frame2.dtype)
+
+        #cv2.imshow("image", frame)
+        cv2.imshow("depth", frame2)
 
         key = cv2.waitKey(30)
 

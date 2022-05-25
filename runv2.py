@@ -73,11 +73,19 @@ def mmap_read_camera(filename: str, image_shape: tuple) -> np.array:
     :param image_shape: [tuple] shape of the image data to be retrieved
     :return:
     """
-    if os.path.exists(filename):
+    if os.path.exists(filename) and os.path.basename(filename) == 'zed_image':
         # grab and return the memory mapped data[ie: np.array]
         zed_img_path = np.memmap(filename, dtype='uint8', mode='c', shape=image_shape)
 
         return zed_img_path
+
+    elif os.path.exists(filename) and os.path.basename(filename) == 'zed_depth_map':
+
+        # grab and return the memory mapped data[ie: np.array]
+        zed_img_path = np.memmap(filename, dtype='float32', mode='c', shape=image_shape)
+
+        return zed_img_path
+
     else:
         raise FileNotFoundError
 
@@ -96,7 +104,9 @@ def get_from_buffer_camera(filename: str, image_shape: tuple) -> tuple:
     return image
 
 
-def get_data(img_h=1242, img_w=2208, img_c=4):
+def get_data(img_h=1080, img_w=1920, img_c=4):
+    # 720 (720, 1280 )
+    # 1080 (1080, 1920)
     # 2K (1242 2208)
 
     # get image data
@@ -104,7 +114,17 @@ def get_data(img_h=1242, img_w=2208, img_c=4):
 
     # get depth data ## channel = None if we want to measure depth, to visualize can be same as image
     depth_image = get_from_buffer_camera('zed_depth_map', image_shape=(img_h, img_w, 4))[:, :, 0:3]
+    depth_image = np.reshape(depth_image, (img_h * img_w, 3))
 
+    #depth_image = np.array(depth_image[np.logical_not(np.isnan(depth_image[:, 0])), :])
+    temp_nan = np.logical_not(np.isnan(depth_image[:, 0]))
+    depth_image = depth_image[temp_nan]
+
+    temp_nan = np.logical_not(np.isinf(depth_image[:, 0]))
+    depth_image = depth_image[temp_nan]
+
+    mask = depth_image[:, 2] < 10
+    depth_image = depth_image[mask]
 
     lidar_points = get_from_buffer_lidar(2)
 
@@ -195,11 +215,13 @@ if __name__ == "__main__":
 
         image = frame["image"]
 
-        cv2.imshow("image", image)
+        #cv2.imshow("image", image)
+        #print(frame['depth'].shape)
 
-        #cv2.imshow("depth", frame[1])
+        #cv2.imshow("depth", frame["depth"])
 
-        pcd.points = o3d.utility.Vector3dVector(frame["point_cloud"])
+        pcd.points = o3d.utility.Vector3dVector(frame["depth"])
+        #pcd = pcd.voxel_down_sample(voxel_size=0.00005)
 
         vis.update_geometry(pcd)
         if reset:
@@ -210,7 +232,7 @@ if __name__ == "__main__":
 
 
 
-        key = cv2.waitKey(100)
+        key = cv2.waitKey(10)
 
         if key == ord('q'):
             break
@@ -224,7 +246,7 @@ if __name__ == "__main__":
             save_depth(path='save_data/depth',
                        filename=depth_filename,
                        image=frame['depth'],
-                       image_shape=(1242, 2208), # 2K (1242 2208)
+                       image_shape=(1080, 1920), # 2K (1242 2208)
                        max_depth=20)
 
             # save point cloud
