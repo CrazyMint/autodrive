@@ -1,0 +1,491 @@
+,path,label
+322,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/138.png,17
+484,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/146.png,9
+84,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/135.png,1
+127,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/149.png,6
+62,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/139.png,10
+95,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/123.png,1
+425,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/123.png,11
+154,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/146.png,2
+307,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/149.png,13
+478,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/132.png,9
+295,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/129.png,13
+479,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/124.png,9
+181,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/125.png,5
+0,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 10/19.png,0
+15,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/122.png,15
+449,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/124.png,3
+21,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/142.png,15
+118,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/132.png,6
+385,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/129.png,4
+34,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/128.png,15
+367,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/149.png,16
+441,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/131.png,3
+276,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/141.png,12
+206,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/142.png,14
+249,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/128.png,7
+177,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/126.png,5
+337,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/149.png,17
+157,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/149.png,2
+255,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/134.png,12
+347,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/145.png,16
+46,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/140.png,10
+13,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/148.png,15
+175,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/129.png,5
+278,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/150.png,12
+315,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/134.png,17
+334,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/146.png,17
+5,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/133.png,15
+173,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/147.png,5
+12,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/145.png,15
+39,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 5/18.png,8
+475,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/129.png,9
+440,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/122.png,3
+396,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/141.png,4
+40,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/133.png,10
+3,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 10/16.png,0
+50,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/122.png,10
+419,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/124.png,11
+155,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/123.png,2
+288,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/148.png,13
+163,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/130.png,5
+333,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/121.png,17
+201,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/131.png,14
+462,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/137.png,9
+117,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/126.png,6
+19,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/135.png,15
+72,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/137.png,1
+94,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/146.png,1
+286,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/140.png,13
+406,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/140.png,11
+293,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/147.png,13
+268,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/132.png,12
+382,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/138.png,4
+408,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/148.png,11
+170,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/122.png,5
+429,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/128.png,11
+445,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/129.png,3
+211,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/125.png,14
+432,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/137.png,3
+282,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/137.png,13
+79,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/144.png,1
+453,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/121.png,3
+74,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/136.png,1
+485,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/123.png,9
+75,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/134.png,1
+281,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/143.png,13
+327,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/126.png,17
+426,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/141.png,11
+20,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/129.png,15
+93,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/121.png,1
+48,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/148.png,10
+67,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/149.png,10
+85,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/129.png,1
+335,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/123.png,17
+102,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/137.png,6
+134,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/136.png,2
+42,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/137.png,10
+33,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/150.png,15
+403,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/130.png,11
+126,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/141.png,6
+390,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/127.png,4
+198,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/148.png,14
+60,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/127.png,10
+252,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/137.png,12
+9,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/136.png,15
+401,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/143.png,11
+384,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/135.png,4
+270,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/127.png,12
+373,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/130.png,4
+400,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/133.png,11
+470,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/122.png,9
+460,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/133.png,9
+76,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/140.png,1
+2,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 10/20.png,0
+266,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/142.png,12
+31,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/141.png,15
+130,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/133.png,2
+99,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/128.png,1
+482,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/139.png,9
+23,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/132.png,15
+352,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/138.png,16
+330,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/127.png,17
+356,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/142.png,16
+172,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/138.png,5
+244,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/146.png,7
+224,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/136.png,7
+191,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/143.png,14
+194,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/136.png,14
+98,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/150.png,1
+411,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/131.png,11
+1,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 10/17.png,0
+424,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/146.png,11
+29,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/146.png,15
+343,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/130.png,16
+340,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/133.png,16
+179,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/124.png,5
+27,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/139.png,15
+8,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/130.png,15
+187,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/149.png,5
+103,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/130.png,6
+120,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/127.png,6
+129,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/128.png,6
+222,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/137.png,7
+405,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/134.png,11
+451,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/125.png,3
+133,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/130.png,2
+230,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/122.png,7
+355,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/129.png,16
+351,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/131.png,16
+144,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/135.png,2
+273,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/121.png,12
+80,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/122.png,1
+339,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/128.png,17
+342,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/137.png,16
+329,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/124.png,17
+434,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/136.png,3
+208,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/132.png,14
+350,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/122.png,16
+55,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/129.png,10
+436,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/140.png,3
+232,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/138.png,7
+167,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/145.png,5
+184,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/146.png,5
+78,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/148.png,1
+320,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/122.png,17
+311,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/143.png,17
+164,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/136.png,5
+162,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/137.png,5
+77,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/145.png,1
+204,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/135.png,14
+298,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/132.png,13
+420,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/127.png,11
+45,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/134.png,10
+467,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/145.png,9
+326,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/142.png,17
+209,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/124.png,14
+115,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/129.png,6
+221,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/143.png,7
+112,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/138.png,6
+58,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/132.png,10
+358,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/132.png,16
+469,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/144.png,9
+386,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/142.png,4
+261,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/131.png,12
+412,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/138.png,11
+135,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/134.png,2
+378,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/148.png,4
+360,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/127.png,16
+260,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/122.png,12
+263,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/147.png,12
+32,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/149.png,15
+26,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/125.png,15
+480,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/127.png,9
+319,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/144.png,17
+152,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/139.png,2
+463,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/130.png,9
+113,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/147.png,6
+174,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/135.png,5
+49,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/144.png,10
+413,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/147.png,11
+219,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/128.png,14
+368,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/150.png,16
+217,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/149.png,14
+119,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/124.png,6
+171,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/131.png,5
+43,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/130.png,10
+38,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 5/16.png,8
+275,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/123.png,12
+228,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/148.png,7
+466,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/140.png,9
+223,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/130.png,7
+430,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/133.png,3
+246,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/141.png,7
+116,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/142.png,6
+427,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/149.png,11
+105,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/134.png,6
+435,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/134.png,3
+147,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/126.png,2
+450,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/127.png,3
+114,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/135.png,6
+357,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/126.png,16
+234,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/135.png,7
+394,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/146.png,4
+377,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/145.png,4
+253,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/130.png,12
+64,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/146.png,10
+464,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/136.png,9
+7,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/137.png,15
+348,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/148.png,16
+188,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/150.png,5
+302,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/139.png,13
+272,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/139.png,12
+57,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/126.png,10
+472,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/138.png,9
+410,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/122.png,11
+24,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/124.png,15
+63,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/121.png,10
+240,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/127.png,7
+54,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/135.png,10
+61,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/125.png,10
+68,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/150.png,10
+428,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/150.png,11
+189,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/128.png,5
+267,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/126.png,12
+364,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/146.png,16
+216,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/141.png,14
+233,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/147.png,7
+66,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/141.png,10
+143,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/147.png,2
+471,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/131.png,9
+438,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/148.png,3
+447,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/126.png,3
+47,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/145.png,10
+158,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/150.png,2
+456,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/141.png,3
+87,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/126.png,1
+44,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/136.png,10
+250,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/133.png,12
+486,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/141.png,9
+380,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/122.png,4
+91,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/125.png,1
+41,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/143.png,10
+316,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/140.png,17
+446,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/142.png,3
+71,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/143.png,1
+17,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/138.png,15
+361,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/125.png,16
+82,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/138.png,1
+391,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/125.png,4
+110,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/122.png,6
+292,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/138.png,13
+11,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/140.png,15
+344,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/136.png,16
+289,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/144.png,13
+150,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/127.png,2
+205,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/129.png,14
+477,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/126.png,9
+69,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/128.png,10
+461,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/143.png,9
+341,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/143.png,16
+183,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/121.png,5
+10,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/134.png,15
+86,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/142.png,1
+304,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/146.png,13
+30,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/123.png,15
+108,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/148.png,6
+416,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/142.png,11
+284,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/136.png,13
+306,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/141.png,13
+161,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/143.png,5
+243,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/121.png,7
+257,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/145.png,12
+141,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/131.png,2
+314,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/136.png,17
+376,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/140.png,4
+481,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/125.png,9
+125,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/123.png,6
+354,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/135.png,16
+245,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/123.png,7
+136,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/140.png,2
+182,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/139.png,5
+455,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/123.png,3
+4,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 10/18.png,0
+159,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/128.png,2
+251,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/143.png,12
+199,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/144.png,14
+235,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/129.png,7
+59,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/124.png,10
+149,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/124.png,2
+96,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/141.png,1
+375,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/134.png,4
+297,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/126.png,13
+81,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/131.png,1
+256,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/140.png,12
+186,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/141.png,5
+489,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/128.png,9
+35,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 5/19.png,8
+370,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/133.png,4
+404,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/136.png,11
+200,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/122.png,14
+363,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/121.png,16
+229,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/144.png,7
+236,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/142.png,7
+487,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/149.png,9
+101,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/143.png,6
+310,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/133.png,17
+409,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/144.png,11
+156,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/141.png,2
+381,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/131.png,4
+365,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/123.png,16
+415,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/129.png,11
+468,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/148.png,9
+6,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/143.png,15
+28,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/121.png,15
+203,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/147.png,14
+192,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/137.png,14
+418,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/132.png,11
+137,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/145.png,2
+259,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/144.png,12
+51,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/131.png,10
+459,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/128.png,3
+345,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/134.png,16
+92,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/139.png,1
+16,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/131.png,15
+332,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/139.png,17
+168,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/148.png,5
+388,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/132.png,4
+138,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/148.png,2
+90,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/127.png,1
+374,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/136.png,4
+264,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/135.png,12
+239,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/124.png,7
+225,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/134.png,7
+458,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/150.png,3
+387,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/126.png,4
+197,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/145.png,14
+36,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 5/17.png,8
+308,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/150.png,13
+238,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/132.png,7
+379,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/144.png,4
+178,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/132.png,5
+210,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/127.png,14
+248,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/150.png,7
+160,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/133.png,5
+300,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/127.png,13
+14,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/144.png,15
+423,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/121.png,11
+241,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/125.png,7
+448,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/132.png,3
+176,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/142.png,5
+196,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/140.png,14
+215,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/123.png,14
+336,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/141.png,17
+402,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/137.png,11
+442,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/138.png,3
+121,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/125.png,6
+139,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/144.png,2
+231,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/131.png,7
+299,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/124.png,13
+151,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/125.png,2
+131,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/143.png,2
+318,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/148.png,17
+254,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/136.png,12
+407,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/145.png,11
+180,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/127.png,5
+104,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/136.png,6
+305,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/123.png,13
+309,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/128.png,13
+454,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/146.png,3
+338,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/150.png,17
+218,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/150.png,14
+262,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/138.png,12
+392,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/139.png,4
+146,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/142.png,2
+142,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/138.png,2
+109,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/144.png,6
+457,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/149.png,3
+202,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/138.png,14
+213,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/121.png,14
+25,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/127.png,15
+83,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/147.png,1
+393,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/121.png,4
+140,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/122.png,2
+285,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/134.png,13
+227,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/145.png,7
+291,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/131.png,13
+212,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/139.png,14
+444,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/135.png,3
+433,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/130.png,3
+106,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/140.png,6
+56,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/142.png,10
+195,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/134.png,14
+237,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/126.png,7
+303,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/121.png,13
+132,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/137.png,2
+371,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/143.png,4
+313,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/130.png,17
+353,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/147.png,16
+122,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/139.png,6
+421,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/125.png,11
+274,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/146.png,12
+280,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/133.png,13
+277,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/149.png,12
+128,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/150.png,6
+399,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/128.png,4
+52,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/138.png,10
+483,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/121.png,9
+166,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/140.png,5
+226,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/140.png,7
+301,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/125.png,13
+296,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/142.png,13
+258,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/148.png,12
+279,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/128.png,12
+124,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/146.png,6
+53,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/147.png,10
+207,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/126.png,14
+283,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/130.png,13
+328,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/132.png,17
+397,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/149.png,4
+214,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/146.png,14
+271,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/125.png,12
+312,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/137.png,17
+465,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/134.png,9
+193,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/130.png,14
+349,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/144.png,16
+369,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/128.png,16
+422,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/139.png,11
+395,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/123.png,4
+290,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/122.png,13
+473,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/147.png,9
+97,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/149.png,1
+265,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/129.png,12
+111,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/131.png,6
+474,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/135.png,9
+443,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/147.png,3
+73,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/130.png,1
+153,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/121.png,2
+323,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/147.png,17
+242,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/139.png,7
+148,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/132.png,2
+437,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/145.png,3
+88,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/132.png,1
+439,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/144.png,3
+70,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/133.png,1
+389,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/124.png,4
+321,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/131.png,17
+372,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/137.png,4
+366,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/141.png,16
+169,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/144.png,5
+417,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/126.png,11
+398,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/150.png,4
+414,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 60/135.png,11
+476,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/142.png,9
+331,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/125.png,17
+359,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/124.png,16
+346,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/140.png,16
+190,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 75/133.png,14
+220,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/133.png,7
+37,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 5/20.png,8
+269,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 65/124.png,12
+488,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 50/150.png,9
+100,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/133.png,6
+325,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/129.png,17
+107,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/145.png,6
+185,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/123.png,5
+287,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/145.png,13
+431,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/143.png,3
+22,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/126.png,15
+123,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 40/121.png,6
+383,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 30/147.png,4
+317,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/145.png,17
+89,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 15/124.png,1
+145,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 20/129.png,2
+294,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 70/135.png,13
+362,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Yield/139.png,16
+452,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 25/139.png,3
+18,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Stop/147.png,15
+324,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/other/135.png,17
+247,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 45/149.png,7
+165,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 35/134.png,5
+65,/home/shehan/Documents/autodrive/perception/sign_detection/data/val/Speed Limit 55/123.png,10
